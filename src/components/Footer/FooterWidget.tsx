@@ -4,7 +4,9 @@ import TVProgrammData from '../data/TvProgpamm'
 import BroadcastData from '../data/broadcast'
 import './FooterWidget.css'
 
-
+/** Контейнер, который отрисовывает FOOT и содержит 3 столбца
+ * В каждом столбце отрисовывается до двух элементов FooterItem
+ */
 
 export default function FooterWidget() {
     return (

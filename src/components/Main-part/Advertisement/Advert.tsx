@@ -1,5 +1,7 @@
 import './advert.css'
 
+/** Реклама под строкой поиска */
+
 interface AdvertParams {
     clssName: string,
     image: string,
