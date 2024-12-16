@@ -1,0 +1,25 @@
+.main-form {
+    display: flex;
+    margin-left: -120px;
+}
+
+.yandex-img {
+    width: 100px;
+    margin-right: 20px;
+}
+
+.search-input {
+    width: 100%;
+    border: 2px solid #ffcc00;
+    background-color: white;
+    padding-left: 15px;
+}
+
+.search-submit {
+    background-color: #ffcc00;
+}
+
+.search-submit {
+    border-radius: 0;
+    border: none;
+}

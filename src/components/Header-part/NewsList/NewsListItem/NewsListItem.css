@@ -1,0 +1,25 @@
+.item-icon {
+    width: 14px;
+    height: 14px;
+}
+
+.item-container {
+    display: flex;
+    align-items: baseline;
+}
+
+.item-icon {
+    margin-right: 10px;
+}
+
+.item-title {
+    margin-bottom: 0;
+}
+
+.item {
+    height: 25px;
+}
+
+.item:hover {
+    color: black;
+}

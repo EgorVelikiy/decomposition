@@ -1,0 +1,16 @@
+.header-container {
+    margin-top: 2rem;
+    display: flex;
+}
+
+.curr-date {
+    font-size: 0.75rem;
+    color: rgb(163, 163, 163);
+}
+
+.relevant-info-container {
+    display: flex;
+    align-items: baseline;
+    height: 1rem;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,9 @@
+.rel-info-list {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+.rel-info-item {
+    margin-right: 10px;
+}

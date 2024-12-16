@@ -1,0 +1,18 @@
+.currency-item {
+    margin-right: 15px;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.currency-item:last-child {
+    margin-right: 0;
+}
+
+.currency {
+    margin-right: 7px;
+}
+
+.change {
+    font-size: 0.7rem;
+    color: rgb(165, 164, 164);
+}

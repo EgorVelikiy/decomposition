@@ -1,0 +1,19 @@
+.banner {
+    margin-left: 2rem;
+    margin-top: 1.8rem;
+}
+
+.banner-title, .banner-text {
+    margin: 0;
+}
+
+.banner-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.banner-title {
+    color: #646cff;
+}
